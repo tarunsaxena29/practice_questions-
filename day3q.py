@@ -56,3 +56,6 @@ tup1=(2,5,7,9,8)
 print(tup1.index(7))
 
 print(tup1.count(9))
+
+#question pracice
+#1.wap
